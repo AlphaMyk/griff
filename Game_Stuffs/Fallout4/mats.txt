@@ -1,0 +1,26 @@
+player.additem 000731a3 1000 ;wood
+player.additem 000731a4 1000 ;steel
+player.additem 000aec5f 1000 ;cloth
+player.additem 001bf72e 1000 ;adhesive
+player.additem 0006907a 1000 ;aluminium
+player.additem 0006907b 1000 ;circuitry
+player.additem 0006907c 1000 ;copper
+player.additem 000aec60 1000 ;cork
+player.additem 0006907d 1000 ;crystal
+player.additem 00069087 1000 ;fiber optics
+player.additem 000aec61 1000 ;fiberglass
+player.additem 0006907e 1000 ;gear
+player.additem 00069085 1000 ;glass
+player.additem 000aec62 1000 ;gold
+player.additem 00069086 1000 ;nuclear material
+player.additem 001bf732 1000 ;oil
+player.additem 0006907f 1000 ;plastic
+player.additem 00106d98 1000 ;rubber
+player.additem 00069081 1000 ;screw
+player.additem 000aec66 1000 ;silver
+player.additem 00069082 1000 ;spring
+player.additem 000aec5e 1000 ;ceramic
+player.additem 000aec64 1000 ;leather
+player.additem 000aec5c 1000 ;asbestos
+player.additem 00106d99 1000 ;concrete
+player.additem 000aec63 1000 ;lead

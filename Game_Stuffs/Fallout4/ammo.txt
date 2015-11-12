@@ -1,0 +1,20 @@
+player.additem 0001f66b 1000 ;.308 round
+player.additem 0004ce87 1000 ;.38 round
+player.additem 0009221c 1000 ;.44 round
+player.additem 0001f66a 1000 ;.45 round
+player.additem 0001f279 1000 ;.50 caliber round
+player.additem 0001f276 1000 ;10mm
+player.additem 0001f66c 1000 ;5mm round
+player.additem 0001f278 1000 ;5.56mm round
+player.additem 0001f673 1000 ;shotgun shell		
+player.additem 000fe269 1000 ;railway spikes		
+player.additem 000e6b2e 25 ;mini nuke
+player.additem 000caba3 250 ;missle
+player.additem 0018abe2 1000 ;cryo cell
+player.additem 000c1897 1000 ;energy cell
+player.additem 0001dbb7 1000 ;plasma cartridge
+player.additem 00075fe4 1000 ;fusion core
+player.additem 000c1897 1000 ;fusion cell
+player.additem 0018abdf 1000 ;2mm ec
+player.additem 000df279 1000 ;gamma round
+player.additem 001025aa 1000 ;alien blaster round

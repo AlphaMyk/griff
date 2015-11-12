@@ -1,0 +1,1 @@
+player.additem 00075fe4 10 ;fusion core
