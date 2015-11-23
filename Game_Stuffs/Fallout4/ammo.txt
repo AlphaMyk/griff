@@ -18,3 +18,4 @@ player.additem 0018abdf 1000 ;2mm ec
 player.additem 000df279 1000 ;gamma round
 player.additem 001025aa 1000 ;alien blaster round
 player.additem 000fd11c 1000 ;cannonball
+player.additem 000cac78 1000 ;flamer fuel
