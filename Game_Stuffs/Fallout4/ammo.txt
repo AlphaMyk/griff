@@ -13,7 +13,6 @@ player.additem 000caba3 250 ;missle
 player.additem 0018abe2 1000 ;cryo cell
 player.additem 000c1897 1000 ;energy cell
 player.additem 0001dbb7 1000 ;plasma cartridge
-player.additem 00075fe4 1000 ;fusion core
 player.additem 000c1897 1000 ;fusion cell
 player.additem 0018abdf 1000 ;2mm ec
 player.additem 000df279 1000 ;gamma round
