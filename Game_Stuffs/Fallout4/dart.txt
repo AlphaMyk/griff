@@ -1,0 +1,9 @@
+player.additem 00058ae9 100 ;berserk syringe
+player.additem 00058aeb 100 ;bleed out syringe
+player.additem 000375bb 100 ;bloatfly syringe
+player.additem 00058af2 100 ;endagerall syringe
+player.additem 00058af4 100 ;lock joint syringe
+player.additem 00058af5 100 ;mind cloud syringe
+player.additem 00058af7 100 ;pax syringe
+player.additem 00058b0c 100 ;radscorpion syringe
+player.additem 00058b0e 100 ;yellow belly syringe
