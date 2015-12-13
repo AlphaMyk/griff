@@ -25,3 +25,4 @@ player.additem 000aec5c 1000 ;asbestos
 player.additem 00106d99 1000 ;concrete
 player.additem 000aec63 1000 ;lead
 player.additem 000aec5b 1000 ;ballistic fiber
+player.additem 001bf730 1000 ;fertilizer
