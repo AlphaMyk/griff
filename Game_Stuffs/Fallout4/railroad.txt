@@ -1,0 +1,1 @@
+set RailroadClothingArmorModAvailable to 1
