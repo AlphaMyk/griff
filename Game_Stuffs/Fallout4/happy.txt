@@ -1,0 +1,3 @@
+getav 00129157 ;Show the current happiness value
+getav 00127238 ;Show the current happiness target value 
+modav 00129157 50 ;Add to the current happiness value
