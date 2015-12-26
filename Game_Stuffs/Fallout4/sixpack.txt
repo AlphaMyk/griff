@@ -1,0 +1,1 @@
+player.additem 0011ea93 6 ;beer
