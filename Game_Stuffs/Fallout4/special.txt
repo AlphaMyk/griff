@@ -1,0 +1,11 @@
+player.SetValue strength 9
+player.SetValue perception 9
+player.SetValue endurance 9
+player.SetValue charisma 9
+player.SetValue intelligence 9
+player.SetValue agility 9
+player.SetValue luck 9
+player.modav carryweight 5000
+
+
+
